@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeSenha", "ValidadorDeSenha\ValidadorDeSenha.csproj", "{40C95289-036F-FD2A-CD20-F990EE95C81D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeSenhaTest", "ValidadorDeSenhaTest\ValidadorDeSenhaTest.csproj", "{2BB0C4F5-12F2-C8DD-4DD6-2380D769D89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C95289-036F-FD2A-CD20-F990EE95C81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C95289-036F-FD2A-CD20-F990EE95C81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C95289-036F-FD2A-CD20-F990EE95C81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C95289-036F-FD2A-CD20-F990EE95C81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB0C4F5-12F2-C8DD-4DD6-2380D769D89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB0C4F5-12F2-C8DD-4DD6-2380D769D89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB0C4F5-12F2-C8DD-4DD6-2380D769D89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB0C4F5-12F2-C8DD-4DD6-2380D769D89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {481E0FD0-6F5A-4E84-B728-0C6D1F16729D}
+	EndGlobalSection
+EndGlobal

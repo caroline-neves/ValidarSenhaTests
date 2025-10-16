@@ -1,0 +1,14 @@
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/bin/Debug/net9.0/ValidadorDeSenha
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/bin/Debug/net9.0/ValidadorDeSenha.deps.json
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/bin/Debug/net9.0/ValidadorDeSenha.runtimeconfig.json
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/bin/Debug/net9.0/ValidadorDeSenha.dll
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/bin/Debug/net9.0/ValidadorDeSenha.pdb
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.AssemblyInfoInputs.cache
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.AssemblyInfo.cs
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.csproj.CoreCompileInputs.cache
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.dll
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/refint/ValidadorDeSenha.dll
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.pdb
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ValidadorDeSenha.genruntimeconfig.cache
+/Users/marcusalexandre/Projetos Carol/ValidacaoDeSenha/ValidadorDeSenha/obj/Debug/net9.0/ref/ValidadorDeSenha.dll
